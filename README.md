@@ -1,4 +1,7 @@
 # Python-Kivy-Game-Mobile-App-2048
 
-![app-image1](https://github.com/kush-koderrex/Python-Kivy-Game-Mobile-App-2048/blob/main/App%20SS.jpg)
-![Demo](https://user-images.githubusercontent.com/56927996/119792555-683b9e00-bef3-11eb-8001-954009e73e65.mp4)
+
+![App Vedio](https://user-images.githubusercontent.com/56927996/119793349-23643700-bef4-11eb-8185-5fc92ad1c35f.gif)
+
+![App SS](https://user-images.githubusercontent.com/56927996/119793474-42fb5f80-bef4-11eb-9f79-7e90e19372db.jpg)
+
